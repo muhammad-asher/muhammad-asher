@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with over 3 years of ex
 
 ## Skills
 
-- **Programming Languages:** Python, Java,JavaScript, TypeScript
+- **Programming Languages:** Python, Java, JavaScript, TypeScript
 - **Front-end Technologies:** React.js, Next.js, HTML, CSS, Bootstrap, Material UI, Chakra UI
 - **Back-end Technologies:** Django, Django Rest Framework, Spring Boot, REST APIs, Redis , Celery, Docker
 - **Databases:** MongoDB, MySQL, Postgres, Firestore, Firebase Realtime Database
