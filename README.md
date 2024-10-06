@@ -27,34 +27,25 @@ Here are some of the recent projects that I've worked on:
    - Implemented an AWS Glue job to see the load forecasting accuracy values in the Postgres DB.
    - Enhanced the functionality and usability of Load forecasting frequency metrics, ensuring the backend code was maintainable and according to standards.
 
-2. **eWave Square (Request Transformations)**
-   - Successfully completed approximately 12 tickets, addressing various components of the system.
-   - Implemented improvements to enhance the functionality and usability of deal notes.
-   - Developed Client Filter Enhancements, significantly refining and expanding client filtering capabilities, thereby enhancing overall search functionality.
-   - Designed and implemented data synchronization commands, facilitating seamless data transfer from Snowflake to the local system and generating API keys for synchronized data.
-   - Implemented the functionality for sending automated email notifications when specific mentions were made.
-   - Optimized the performance of the deal pages to ensure a smooth user experience, among many other tasks.
-   - Worked as a React/Django Developer on the Request Transformations project for eWave Square at Nexius.
-
-3. **ProjeX - A Project Management Application**
+2. **ProjeX - A Project Management Application**
    - Developed a comprehensive project management application, similar to JIRA, using React JS and Django at Nexius.
    - Utilized Django and Django Rest Framework on a Docker server to develop a secure RESTful API with robust user authentication and authorization, leveraging Django's built-in authentication features and Djoser.
    - Empowered users to seamlessly engage with projects, managing tickets, comments, and work hours with ease.
    - Admin user exclusively manages permission rules, grants/revokes permissions, assigns projects to users, handles user roles, and accesses user details.
    - Employed best practices to ensure the backend codebase was maintainable, scalable, and adhered to coding standards.
 
-4. **Penpal AI Server**
+3. **Penpal AI Server**
    - Developed a human-like interaction-based service using OpenAI.
    - Seamlessly integrated OpenAI Function Calling to generate human-like responses.
    - Integrated Tavilly to perform real-time searches when the user asked about them, enhancing real-time functionality significantly.
 
-5. **ConstructionBevy**
+4. **ConstructionBevy**
    - Worked as a Django developer for Construction Bevy, a FinTech-enabled marketplace for the commercial construction industry.
    - Integrated the prequal services to answer various traders' questions.
    - Wrote tests for different modules to take the test coverage for the overall project to 100%.
    - Wrote unit test cases for the prequal services for general contractors and trade partners.
 
-6. **VVS Eksperten**
+5. **VVS Eksperten**
    - Worked as a JS developer in my early career on VVS Eksperten to integrate Relewise with VVS Search Data at Nexius.
    - Seamlessly integrated Relewise, a personalized search, tracking, and recommendation engine, with VVS-Eksperten's Products and Categories Search Result Data.
    - Implemented user-friendly features including layered navigation, pagination, and an auto-completion search bar to elevate the overall user experience.
